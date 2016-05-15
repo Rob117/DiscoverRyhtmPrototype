@@ -1,0 +1,27 @@
+This is a rythm game for Android devices.
+
+I started with a tutorial from a Japanese company. I enjoyed the tutorial, but I found some of the ways they wrote the game a little unsatisfying.
+
+For example, anyone who has every developed with Android will tell you about input lag and audio lag, especially when using Unity. I disabled VSync as a quick hack to solve the worst of the input issues, and I tied the note-scroll start to the music beginning instead of the scene starting.
+
+I also wrote in max combos, because I wanted to know how well I was doing. 
+
+The entire process, tutorial included, took about two days.
+
+Please note: Because this contains proprietary assets from the tutorial, I can only distribute the code files and the finished prototype.
+
+Install method: Install the apk on your android device as a third-party apk. Then enjoy.
+
+これがアンドロイドに対象をリズムゲームなのです。
+
+まず、日本のゲーム会社が発行されたチュートリアルから作り始めました。楽しかったですが、やはり多少な「いまいち」ということがあった。
+
+例えば、Androidの開発経験がある方はもうご存知だと思いますが、入力したら反応が遅くて、また音を出すことが結構遅い場合がかなりあります。入力には、描画のペースを60フレームに設定しました。音の中継遅れには、音楽の始まりをノートと出しはじめとしっかり結んでいた。それで、音が始まった瞬間にノートの流れもちゃんと始まる。
+
+それに、やはり自分がどれぐらい成長していたがわからなかったからMaxComboも実装しました。　
+
+チュートリアルも含めて2日かかりました。
+
+注意：このプロジェクトにチュートリアルからのアセット（音楽、イメージ）が入っていたので、配布できるのがコードと試作品なんです。
+
+インストール手順：普通の3rd Party APKとして自分のアンドロイド端末にインストールしてからエンジョイしてください。
